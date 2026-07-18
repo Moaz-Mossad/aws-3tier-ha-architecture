@@ -4,7 +4,7 @@ A highly available, secure e-commerce architecture built on AWS.
 
 ## Architecture Diagram
 <p align="center">
-  <img src="./architecture-diagram.png" alt="SecureWeb Architecture Diagram" width="800">
+  <img src="architecture-diagram.png" alt="SecureWeb Architecture Diagram" width="800">
 </p>
 
 ## Overview
